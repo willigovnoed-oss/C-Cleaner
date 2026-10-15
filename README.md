@@ -1,4 +1,4 @@
-# C-Cleaner
+SUPPORTED BY OPENAI COMPANY #C-Cleaner
 
 **A lightweight Windows junk file cleaner with a simple graphical interface.**
 
